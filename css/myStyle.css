@@ -1,60 +1,53 @@
-/*文章的整体背景，渐变色设置*/
-#web_bg {
-	background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
-	#background: #FFEFBA;
-	/* fallback for old browsers */
-	#background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
-	/* Chrome 10-25, Safari 5.1-6 */
-	#background: linear-gradient(to right, #FFFFFF, #FFEFBA);
-	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	background: #2BC0E4;
-	/* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);
-	/* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #EAECC6, #2BC0E4);
-	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-}
-
-/* 主页所有文章页面背景 */
-#aside_content .card-widget,
-#recent-posts>.recent-post-item,
-.layout_page>div:first-child:not(.recent-posts),
-.layout_post>#page,
-.layout_post>#post,
-.read-mode .layout_post>#post {
-	/* 以下代表透明度为0.5 */
-	background: rgba(255, 255, 255, .5);
-}
-
-/*侧边栏页面*/
-#aside-content>.card-widget {
-	background: rgba(255, 255, 255, .6);
-}
-
-#aside-content>.sticky_layout>.card-widget {
-	background: rgba(255, 255, 255, .6);
-}
-
-/*文章页面*/
-.layout>#post {
-	background: rgba(255, 255, 255, .6);
-}
-
-/*分类页面*/
-.layout>#page {
-
-	background: rgba(255, 255, 255, .6);
-}
-
-/*时间轴页面*/
-.layout>#archive {
-	background: rgba(255, 255, 255, .6);
-}
-
 /* 翻页按钮居中 */
 #pagination {
 	width: 100%;
 	margin: auto;
   }
+
+/* 全局默认鼠标指针 */
+body,
+html {
+	cursor: url('./mouse/胡桃.cur'), auto !important;
+}
+  
+/* 悬停图片时的鼠标指针 */
+img {
+	
+	cursor: url('./mouse/候选.cur'), auto !important;
+}
+
+/* 选择链接标签时的鼠标指针 */
+a:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
+
+/* 选中输入框时的鼠标指针 */
+input:hover {
+	cursor: url('./mouse/输入.cur'), auto;
+}
+
+/* 悬停按钮时的鼠标指针 */
+button:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
+
+/* 悬停列表标签时的鼠标指针 */
+i:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
+
+/* 悬停页脚链接标签（例如页脚徽标）时的鼠标指针 */
+#footer-wrap a:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
+
+/* 悬停页码时的鼠标指针 */
+#pagination .page-number:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
+
+/* 悬停菜单栏时的鼠标指针 */
+#nav .site-page:hover {
+	cursor: url('./mouse/悬停按钮.cur'), auto;
+}
 
