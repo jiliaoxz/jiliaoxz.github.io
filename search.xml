@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>每日一言-2023-01-01</title>
+      <link href="/2023/01/02/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80-2023-01-01/"/>
+      <url>/2023/01/02/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80-2023-01-01/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>别希望，别盼望，别指望，就不会失望。<br>Don’t hope,don’t look forward,don’t expect,you won’t be disappointed.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> write a saying every day </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 每日一言 </tag>
+            
+            <tag> emo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>每日一言 2023/01/02</title>
+      <link href="/2023/01/02/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80-2023-01-02/"/>
+      <url>/2023/01/02/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%A8%80-2023-01-02/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你不要因为一片云，而指着天空说没太阳。<br>You should not beacuse of a cloud,pointing to the sky and say there is no sun.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> write a saying every day </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 每日一言 </tag>
+            
+            <tag> 励志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/01/01/hello-world/"/>
       <url>/2023/01/01/hello-world/</url>
@@ -20,7 +74,7 @@
     
     
     <entry>
-      <title>about</title>
+      <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
@@ -31,9 +85,31 @@
     
     
     <entry>
+      <title>文章分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>home</title>
       <link href="/home/index.html"/>
       <url>/home/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
