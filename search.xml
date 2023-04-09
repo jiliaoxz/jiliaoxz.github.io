@@ -47,11 +47,11 @@
       
         <tags>
             
+            <tag> 全部 </tag>
+            
             <tag> 随手小记 </tag>
             
             <tag> 狂怒 </tag>
-            
-            <tag> 全部 </tag>
             
         </tags>
       
@@ -76,9 +76,9 @@
       
         <tags>
             
-            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
-            
             <tag> 全部 </tag>
+            
+            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
             
         </tags>
       
@@ -103,9 +103,9 @@
       
         <tags>
             
-            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
-            
             <tag> 全部 </tag>
+            
+            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
             
         </tags>
       
@@ -130,9 +130,9 @@
       
         <tags>
             
-            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
-            
             <tag> 全部 </tag>
+            
+            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
             
         </tags>
       
@@ -157,9 +157,9 @@
       
         <tags>
             
-            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
-            
             <tag> 全部 </tag>
+            
+            <tag> 我也不知道我写这些东西干什么反正写就完了 </tag>
             
         </tags>
       
@@ -182,9 +182,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>文章分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -204,9 +204,9 @@
     
     
     <entry>
-      <title>文章分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
